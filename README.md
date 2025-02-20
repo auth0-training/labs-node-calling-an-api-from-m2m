@@ -1,6 +1,6 @@
 # Lab: Call Your API from an Auth0 M2M Application
 
-In this [Okta Training](https://okta.com/training) hands-on lab, you will learn how to call your API from an M2M application using the [OAuth 2.0 Client Credentials grant](https://datatracker.ietf.org/doc/html/rfc6749#section-4.4) with Auth0. 
+In this [Okta Learning](https://learning.okta.com/) hands-on lab, you will learn how to call your API from an M2M application using the [OAuth 2.0 Client Credentials grant](https://datatracker.ietf.org/doc/html/rfc6749#section-4.4) with Auth0. 
 
 --- 
 
